@@ -8,7 +8,7 @@ import catScrunkly from '$lib/assets/emojis/cat-scrunkly.jpg';
 import meowChemicalRomance from '$lib/assets/emojis/meow-chemical-romance.png';
 import catWeirdlyHappy from '$lib/assets/emojis/cat-weirdly-happy.png';
 import catHeart from '$lib/assets/emojis/cat-heart.png';
-// import mergeConflict from '$lib/assets/emojis/merge-conflict.png';
+import mergeConflict from '$lib/assets/emojis/merge-conflict.png';
 import catDissociate from '$lib/assets/emojis/cat-dissociate.png';
 import catLoading from '$lib/assets/emojis/cat-loading.png';
 import catBanana from '$lib/assets/emojis/cat-banana.png';
@@ -144,11 +144,11 @@ export const emojis: Emoji[] = [
 		alt: 'a cat dissociating',
 		src: catDissociate
 	},
-	// {
-	// 	name: 'merge-conflict',
-	// 	alt: 'a cat in front of a laptop resolving a painful merge conflict',
-	// 	src: mergeConflict
-	// },
+	{
+		name: 'merge-conflict',
+		alt: 'a cat in front of a laptop resolving a painful merge conflict',
+		src: mergeConflict
+	},
 	{
 		name: 'cat-heart',
 		alt: 'a cat with a korean finger heart',
