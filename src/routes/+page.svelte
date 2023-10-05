@@ -72,8 +72,6 @@
 			<button
 				on:click={() => handleKeydown(index)}
 				on:keydown={() => handleKeydown(index)}
-				on:mouseover={() => handleKeydown(index)}
-				on:focus={() => handleKeydown(index)}
 				class="border border-violet-400/60 flex gap-1 items-center p-2 rounded-md w-fit bg-violet-950/20 focus:outline-none focus:ring-1 focus:ring-violet-300"
 			>
 				<img src={emoji.src} alt={emoji.alt} class="object-cover h-[32px] w-[32px]" />
