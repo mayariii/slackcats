@@ -146,7 +146,7 @@ export const emojis: Emoji[] = [
 	},
 	{
 		name: 'merge-conflict',
-		alt: 'a cat in front of a laptop resolving a painful merge conflict',
+		alt: 'a cat in front of a laptop resolving a painful merge conflict!',
 		src: mergeConflict
 	},
 	{
