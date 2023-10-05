@@ -36,7 +36,7 @@
 
 <svelte:head>
 	<title>slack cats 🐈</title>
-	<meta name="description" content="A variety of silly cat emojis for Slack!" />
+	<meta name="description" content="a variety of silly cat emojis for Slack 🐱" />
 </svelte:head>
 
 <div class="h-screen bg-gray-800 flex flex-col items-center pb-12">
