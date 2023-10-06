@@ -42,7 +42,7 @@
 <div class="h-screen bg-gray-800 flex flex-col items-center pb-12">
 	<h1 class="text-2xl font-semibold mt-10 text-violet-400">slack cats</h1>
 	<p class="text-violet-50/80 max-w-[40ch] text-center text-xs mt-2">
-		✨ the emoji directory you didn't know you needed ✨
+		the emoji directory you didn't know you needed ✨
 	</p>
 
 	{#if selectedEmoji}
