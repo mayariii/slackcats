@@ -28,23 +28,24 @@ import catHaha from '$lib/assets/cat-haha.png';
 import catGoggles from '$lib/assets/cat-goggles.png';
 import catHehe from '$lib/assets/cat-hehe.png';
 import catFabulous from '$lib/assets/cat-fabulous.jpg';
-import bicepCurl from '$lib/assets/bicep-curl.jpg';
-import gettingSwole from '$lib/assets/getting-swole.jpg';
-import notAmused from '$lib/assets/not-amused.jpg';
+import bicepCurl from '$lib/assets/bicep-curl.png';
+import gettingSwole from '$lib/assets/getting-swole.png';
+import notAmused from '$lib/assets/not-amused.png';
 import uWotM8 from '$lib/assets/u-wot-m8.jpg';
-import catAdmire from '$lib/assets/cat-admire.jpg';
+import catAdmire from '$lib/assets/cat-admire.png';
 import catWFH from '$lib/assets/cat-WFH.jpg';
-import chefCat from '$lib/assets/chef-cat.jpeg';
-import catStare from '$lib/assets/cat-stare.jpg';
-import catHeck from '$lib/assets/cat-heck.jpg';
-import catAngry from '$lib/assets/cat-angry.jpg';
+import chefCat from '$lib/assets/chef-cat.png';
+import catStare from '$lib/assets/cat-stare.png';
+import catHeck from '$lib/assets/cat-heck.png';
+import catAngry from '$lib/assets/cat-angry.png';
 import catCozy from '$lib/assets/cat-cozy.jpg';
-import catMechanic from '$lib/assets/cat-mechanic.jpg';
-import sousChef from '$lib/assets/sous-chef.jpg';
+import catMechanic from '$lib/assets/cat-mechanic.png';
+import sousChef from '$lib/assets/sous-chef.png';
 import catInspect from '$lib/assets/cat-inspect.jpg';
-import catObserve from '$lib/assets/cat-observe.jpg';
+import catObserve from '$lib/assets/cat-observe.png';
 import catShook from '$lib/assets/cat-shook.jpg';
 import senorCheeto from '$lib/assets/senor-cheeto.jpg';
+import missTrilly from '$lib/assets/miss-trilly.png';
 
 export type Emoji = {
 	name: string;
@@ -288,5 +289,11 @@ export const emojis: Emoji[] = [
 		name: 'senor-cheeto',
 		alt: 'a large cat with cheeto dust on its paws',
 		src: senorCheeto
+	}
+	,
+	{
+		name: 'miss-trilly',
+		alt: 'a cute sassy italian cat with an angry/shocked face',
+		src: missTrilly
 	},
 ];
